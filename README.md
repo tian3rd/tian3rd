@@ -9,4 +9,7 @@
 
 🥥 My other working projects:
 
+- Implementing algorithms in Swift
+- Leetcode practice in Java, Swift and Python
+
 🍔 My side projects:
