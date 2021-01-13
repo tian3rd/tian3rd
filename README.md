@@ -11,5 +11,6 @@
 
 - Implementing algorithms in Swift
 - Leetcode practice in Java, Swift and Python
+- Machine learning hands-on practice
 
 🍔 My side projects:
