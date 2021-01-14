@@ -9,5 +9,5 @@
 
 🍔 My side projects:
 
-- Implementing algorithms in Swift
+- Data wrangling and visulization
 - Leetcode practice in Java, Swift and Python
