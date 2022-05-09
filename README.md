@@ -4,19 +4,14 @@
 
 🪂 Hi, glad to see you landing on my github page!
 
-🔩 Learning: 1. [Deep Dive Into Modern Web Development](https://fullstackopen.com/en/) 2. [SwiftUI](https://www.hackingwithswift.com/100/swiftui)
+🔩 Learning: 1. [Modern Web Development](https://fullstackopen.com/en/) 2. [SwiftUI](https://www.hackingwithswift.com/100/swiftui) 3. [FastAPI](https://fastapi.tiangolo.com/)
 
-👨‍💻 Working on: [Developing interfaces for i/o devices (PDF demo)](https://github.com/tian3rd/pi_dev/blob/main/SummerProject_TianWu.pdf)
+👨‍💻 Working on: 1. [Developing interfaces for i/o devices (PDF demo)](https://github.com/tian3rd/pi_dev/blob/main/SummerProject_TianWu.pdf) 2. Designing [AICyber Website Design](https://www.figma.com/file/mYBuMQlj3OvQzZoCmEsqCD/AICyber?node-id=0%3A1)
 
 💻 Languages: JavaScript, Python, Swift, Java, Bash
 
-🖼 Frameworks: React.js (Gatsby, Next.js), SwiftUI, Bootstrap, Pytorch
+🌉 Frameworks: React.js (Gatsby, Next.js), SwiftUI, Bootstrap, Pytorch
 
 🏀 Sports: Apple Fitness, basketball, football
 
 🕸 Website: [Taikonaut.studio](https://taikonaut.studio) (rebuilding with Next.js)
-
-🗓 Weekly updates: 
-| No. Week | Update/Link | Comment |
-| --- | --- | --- |
-| 8 | [vikings brainstorm](https://621223b5da6915a3d804d6c1--vikings-v1-0-0.netlify.app/) | a simple boardgame |
