@@ -6,7 +6,7 @@
 
 🔩 Learning: 1. [Modern Web Development](https://fullstackopen.com/en/) 2. [SwiftUI](https://www.hackingwithswift.com/100/swiftui) 3. [FastAPI](https://fastapi.tiangolo.com/)
 
-👨‍💻 Working on: 1. [Developing interfaces for i/o devices (PDF demo)](https://github.com/tian3rd/pi_dev/blob/main/SummerProject_TianWu.pdf) 2. Designing [AICyber Website Design](https://www.figma.com/file/mYBuMQlj3OvQzZoCmEsqCD/AICyber?node-id=0%3A1)
+👨‍💻 Working on: 1. [Developing interfaces for i/o devices (PDF demo)](https://github.com/tian3rd/pi_dev/blob/main/presentations/SummerProject_TianWu.pdf) 2. [Designing AICyber Website Design](https://www.figma.com/file/mYBuMQlj3OvQzZoCmEsqCD/AICyber?node-id=0%3A1)
 
 💻 Languages: JavaScript, Python, Swift, Java, Bash
 
