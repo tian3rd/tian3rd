@@ -2,16 +2,16 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=tian3rd&show_icons=true&icon_color=0366d6&text_color=24292e&hide_title=true" />
 
-🪂 Hi, glad to see you landing on my github page!
+🪂 Hi
 
-🔩 Learning: 1. [Modern Web Development](https://fullstackopen.com/en/) 2. [SwiftUI](https://www.hackingwithswift.com/100/swiftui) 3. [FastAPI](https://fastapi.tiangolo.com/)
+🔩 Learning: 1. [Modern Web Development](https://fullstackopen.com/en/) 2. [SwiftUI](https://www.hackingwithswift.com/100/swiftui) 3. [Dart](https://www.kodeco.com/books/dart-apprentice-beyond-the-basics)
 
-👨‍💻 Working on: 1. [Developing interfaces for i/o devices (PDF demo)](https://github.com/tian3rd/pi_dev/blob/main/presentations/SummerProject_TianWu.pdf) 2. [Designing AICyber Website Design](https://www.figma.com/file/mYBuMQlj3OvQzZoCmEsqCD/AICyber?node-id=0%3A1)
+👨‍💻 Working on: 1. [Cosie Blog](https://www.cosie.me) 2. [Micropython with Feather Express](https://learn.adafruit.com/adafruit-stm32f405-feather-express/micropython-setup) 3. [RDFLib dart package](https://pub.dev/)
 
-💻 Languages: JavaScript, Python, Swift, Java, Bash
+🍉 Languages: Dart, JavaScript, Python
 
-🌉 Frameworks: React.js (Gatsby, Next.js), SwiftUI, Bootstrap, Pytorch
+🐾 Frameworks: React.js (Next.js), Flutter
 
-🏀 Sports: Apple Fitness, basketball, football
+⛹️‍♂️Sports: Apple Fitness, basketball, football
 
-🕸 Website: [Taikonaut.studio](https://taikonaut.studio) (rebuilding with Next.js)
+🕸 Blog: [Cosie.me](https://www.cosie.me) (updating)
