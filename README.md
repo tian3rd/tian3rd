@@ -5,3 +5,5 @@
 Optimistic about the brave new technology world.
 
 Pessimistic about the what it means for the earth.
+
+Working on [cosie.me](https://www.cosie.me/).
